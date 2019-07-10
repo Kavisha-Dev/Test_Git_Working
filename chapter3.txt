@@ -1,1 +1,2 @@
 This is the chapter 3. Finally.
+Changes in bug02 branch.
